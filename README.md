@@ -11,13 +11,14 @@ Line 4: Element checking is the algorithm name and its the first line of the cod
 Line 5-7 Declaration of 3 variable as counter and give them integer as data type
        char_counter, Word_counter and Vowel_counter  
        
-Line 8 :Declaration of another variable sentence and give it a string data type
+Line 8 :Declaration of sentence variable  and give it a string data type
 
-Line 13- while the sentence length 'i' , DO the followings:
+Line 13- Using the the sentence length , DO the followings:
 
-Line 14 -20 check (It gives us the number of space and number of character in the sentence )
+Line 14 -20  (It gives us the number of space and number of character in the sentence ) Check
+
    i. if the sentence has a space, then space counter equals space counter plus ONE
-   else  counter equals Charcter counter plus ONE
+   else Character counter equals Charcter counter plus ONE
    end the "if" condition
    
    Line 23-30 Gives us the number of vowel sounds in the sentence
@@ -27,7 +28,7 @@ Line 14 -20 check (It gives us the number of space and number of character in th
    
    Line 32 enables us to check the characters one after the other for all the vowels in every single loop
    
-   Line 35 Give us the word_counter value by adding the ONE to the space_counter value
+   Line 35 Give us the word_counter value by adding the ONE to the space_counter value, since the sentence are separated by a single space.
 
    Line 39-41 This write the values for character counter, word counter and vowel counter.
    
