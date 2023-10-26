@@ -1,7 +1,10 @@
 # Algorithm-checkpoint
+
 Gomycode checkpoint Algorithm Project using the algo vscode extention
-ALGORITHM THAT READS THE NUMBERS OF CHARACTERS, NUM OF WORDS AND NUMBERS OF VOWELS SOUNDS  IN THE SENTENSE
-EXPLANATION OF THE CODE
+
+ALGORITHM THAT READS THE NUMBERS OF CHARACTERS, NUM OF WORDS AND NUMBERS OF VOWELS SOUNDS  IN THE SENTENCE
+
+#EXPLANATION OF THE CODE
 
 Line 4: Element checking is the algorithm name and its the first line of the code
 Line 5-7 Declaration of 3 variable as counter and give them integer as data type
