@@ -26,7 +26,7 @@ Line 14 -20  (It gives us the number of space and number of character in the sen
    At every loop (case),once there is VOWEL soundin the sentence, the vowel_counter will add one.
    we add the BREAK keyword so the sentence is checked for all the vowel sounds from the begining again after meeting a true condition. (looping from the first case again until the end of the last character in the sentence.
    
-   Line 32 enables us to check the characters one after the other for all the vowels in every single loop
+   Line 32 enables us to check the characters one after the other in the sentence. The condition goes from the very first character and go through till the last character without jumping any character.
    
    Line 35 Give us the word_counter value by adding the ONE to the space_counter value, since the sentence are separated by a single space.
 
